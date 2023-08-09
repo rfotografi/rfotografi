@@ -1,0 +1,815 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 47.6rem;
+}.home-SHF {
+  box-sizing: border-box;
+  padding-top: 1.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.home-SHF .navbar-menu-C9w {
+  margin: 0rem 6.9rem 1.5rem 7rem;
+  width: calc(100% - 13.9rem);
+  height: 1.9rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-SHF .navbar-menu-C9w .auto-group-o4qz-SiV {
+  box-sizing: border-box;
+  padding: 0.2rem 13.5rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.15rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-SHF .navbar-menu-C9w .auto-group-o4qz-SiV .home-MKf {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .navbar-menu-C9w .auto-group-o4qz-SiV .contact-epZ {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .navbar-menu-C9w .auto-group-o4qz-SiV .backup-file-bjo {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .navbar-menu-C9w .instagram-1-wYm {
+  width: 1.8rem;
+  height: 1.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-lcfk-GL9 {
+  margin-bottom: 1.1rem;
+  width: 150.3rem;
+  height: 31rem;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-lcfk-GL9 .auto-group-prny-nJV {
+  width: 88.8rem;
+  height: 100%;
+  position: relative;
+}
+.home-SHF .auto-group-lcfk-GL9 .auto-group-prny-nJV .xt000000-1-vfb {
+  width: 79.5rem;
+  height: 26.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-SHF .auto-group-lcfk-GL9 .auto-group-prny-nJV .bg-content-TvR {
+  width: 81.1rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 18.8rem;
+  background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #000000 61.04%);
+}
+.home-SHF .auto-group-lcfk-GL9 .auto-group-prny-nJV .deskripsi-open-mRK {
+  width: 27.3rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 11.1rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.home-SHF .auto-group-lcfk-GL9 .auto-group-prny-nJV .rfotografi-SnM {
+  width: 16.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-lcfk-GL9 .auto-group-prny-nJV .button-izm {
+  width: 5.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 20.6rem;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.home-SHF .portfolio-kgZ {
+  margin-left: 18.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb {
+  width: 100%;
+  height: 305.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs {
+  width: 32rem;
+  height: 68.6rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-sef3-9Cu {
+  margin-right: 1.7rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-sef3-9Cu .rfg01051-1-Ha1 {
+  margin: 0rem 0.1rem 1.5rem 0rem;
+  width: 15rem;
+  height: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-sef3-9Cu .rfg01051-2-1F7 {
+  margin: 0rem 0.1rem 1rem 0rem;
+  width: 15rem;
+  height: 9.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-sef3-9Cu .rectangle-15-Xz9 {
+  margin-bottom: 2rem;
+  width: 15rem;
+  height: 8.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-sef3-9Cu .rectangle-3-HCd {
+  width: 14.8rem;
+  height: 23.8rem;
+  position: relative;
+  background-size: 116.28% 100%;
+  background-position: -1.2047rem 0;
+  background-image: url('../assets/rectangle-3-mjf.png');
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-uyvx-axR {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-uyvx-axR .rectangle-2-ioj {
+  margin: 0rem 0rem 1.2rem 0.2rem;
+  width: 15rem;
+  height: 12.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-uyvx-axR .rfg00460-1-QgZ {
+  margin: 0rem 0.2rem 1.2rem 0rem;
+  width: 15rem;
+  height: 23.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-uyvx-axR .rectangle-4-VCD {
+  margin-bottom: 0.9rem;
+  width: 14.8rem;
+  height: 17.6rem;
+  position: relative;
+  background-size: 100% 126.136%;
+  background-position: -0.0845rem -3.8207rem;
+  background-image: url('../assets/rectangle-4-tjj.png');
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-9pz1-cTs .auto-group-uyvx-axR .rectangle-16-xbb {
+  width: 14.8rem;
+  height: 11.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .capture-your-inportant-moment-GMP {
+  width: 23.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.15rem;
+  top: 74.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-mbwo-HRb .kami-menyediakan-beberapa-jasa-foto-mau-itu-untuk-keperluan-acara-resmi-keluarga-acara-resmi-pribadi-atau-acara-resmi-sekolah-untuk-harga-kita-bisa-sesuaikan-dengan-budget-client-karena-kita-disini-ingin-membantu-client-agar-acaranya-bisa-berjalan-dengan-lancar-ada-beberapa-jasa-foto-yang-kita-layani-antara-lain-yaitu--wCd {
+  width: 39.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 78.3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f {
+  width: 38.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 4.65rem;
+  top: 204.3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f-sub-2 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f-sub-3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--V7f-sub-4 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .rectangle-14-Xe1 {
+  width: 34.4261rem;
+  height: 43.6407rem;
+  position: absolute;
+  left: 0;
+  top: 597.2787rem;
+  background-color: #000000;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid {
+  width: 41.3084rem;
+  height: 109.6978rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 91.5rem;
+  overflow: hidden;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF {
+  margin: 0rem 3.108rem 10.7rem 1.332rem;
+  width: calc(100% - 4.4402rem);
+  height: 19.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .content-gvD {
+  margin: 0.3rem 5.477rem 0rem 0rem;
+  width: 19.7232rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .content-gvD .tagline-ozq {
+  margin: 0rem 0rem 1rem 0.032rem;
+  width: calc(100% - 0.0318rem);
+  display: flex;
+  align-items: flex-end;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .content-gvD .tagline-ozq .line-fvZ {
+  margin-right: 2.1728rem;
+  width: 6.5185rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .content-gvD .tagline-ozq .rfotografi-oms {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .content-gvD .wedding-photography-w7P {
+  margin: 0rem 0rem 1.1rem 0.032rem;
+  max-width: 12rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .content-gvD .caption1-enV {
+  margin: 0rem 0rem 2.3rem 0.032rem;
+  max-width: 18.2rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .content-gvD .button-Akq {
+  width: 5.2rem;
+  height: 1.8rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 0.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #d4b157;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .wedding-moF .rfg00659-1-33w {
+  width: 11.7rem;
+  height: 18.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 {
+  margin: 0rem 2.508rem 6.7rem 0rem;
+  box-sizing: border-box;
+  padding-right: 1.6086rem;
+  width: calc(100% - 2.5084rem);
+  height: 19.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .rfg00659-1-Vgd {
+  margin: 0.7rem 5.8rem 0rem 0rem;
+  width: 11.7rem;
+  height: 18.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .content-dH3 {
+  width: 19.6914rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .content-dH3 .tagline-ZgV {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .content-dH3 .tagline-ZgV .line-Kff {
+  margin-right: 2.1728rem;
+  width: 6.5185rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .content-dH3 .tagline-ZgV .rfotografi-4t9 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .content-dH3 .prewedding-photography-PQd {
+  margin-bottom: 1.1rem;
+  max-width: 12rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .content-dH3 .caption1-utm {
+  margin-bottom: 3.3rem;
+  max-width: 18.2rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .prewedding-BR3 .content-dH3 .button-Ew3 {
+  width: 5.1rem;
+  height: 1.8rem;
+  text-align: center;
+  font-size: 0.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #d4b157;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj {
+  margin: 0rem 2.308rem 5.61rem 0.1rem;
+  width: calc(100% - 2.4084rem);
+  height: 23.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .content-SXK {
+  margin-right: 4.8rem;
+  width: 22.4rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .content-SXK .tagline-Lsb {
+  margin: 0rem 2.709rem 2.3rem 0rem;
+  width: calc(100% - 2.7086rem);
+  display: flex;
+  align-items: flex-end;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .content-SXK .tagline-Lsb .line-fQ5 {
+  margin-right: 2.1728rem;
+  width: 6.5185rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .content-SXK .tagline-Lsb .rfotografi-Q6m {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .content-SXK .engagement-photography-idF {
+  margin-bottom: 2.3rem;
+  display: flex;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .content-SXK .caption1-cyX {
+  margin-bottom: 4.3rem;
+  max-width: 20.8rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .content-SXK .button-9Tf {
+  width: 5.1rem;
+  height: 1.8rem;
+  text-align: center;
+  font-size: 0.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #d4b157;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .engagement-8Fj .rfg00659-1-d7w {
+  margin-top: 0.7rem;
+  width: 11.7rem;
+  height: 18.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding-right: 0.1707rem;
+  width: calc(100% - 0.1rem);
+  height: 23.6877rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .rfg00659-1-gM7 {
+  margin: 1.19rem 5.4rem 0rem 0rem;
+  width: 11.7rem;
+  height: 18.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .content-bys {
+  width: 23.9378rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .content-bys .tagline-MCM {
+  margin: 0rem 4.209rem 2.25rem 0.038rem;
+  width: calc(100% - 4.2464rem);
+  display: flex;
+  align-items: flex-end;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .content-bys .tagline-MCM .line-gVX {
+  margin-right: 2.1728rem;
+  width: 6.5185rem;
+  height: 0.2rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .content-bys .tagline-MCM .rfotografi-Ri1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .content-bys .free-event-photography-xC9 {
+  margin: 0rem 0rem 2.25rem 0.038rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .content-bys .caption1-gP3 {
+  margin: 0rem 0rem 4.29rem 0.038rem;
+  max-width: 23.9rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.home-SHF .auto-group-mbwo-HRb .content-eid .freeevent-xAD .content-bys .button-QZw {
+  width: 5.1rem;
+  height: 1.8rem;
+  text-align: center;
+  font-size: 0.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #d4b157;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.home-SHF .auto-group-mbwo-HRb .company-HNq {
+  width: 6rem;
+  height: 1rem;
+  position: absolute;
+  left: 21rem;
+  top: 248.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-v9vk-PAy {
+  width: 15.8rem;
+  height: 1rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 251.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-v9vk-PAy .privacy-policy-WWV {
+  margin-right: 2.4rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .auto-group-v9vk-PAy .terms-and-conditions-S9F {
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR {
+  width: 18.2rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 14.3rem;
+  top: 218.2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame-3-6Do {
+  margin-bottom: 1.8rem;
+  width: 18.1rem;
+  height: 4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame-3-6Do .hubungi-kita-qSH {
+  width: 9.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.45rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame-3-6Do .rectangle-32-YLh {
+  width: 18.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame2-s85 {
+  margin-bottom: 1.6rem;
+  width: 18.1rem;
+  height: 3.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame2-s85 .cek-tanggal-Cw3 {
+  width: 8.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.85rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame2-s85 .rectangle-32-i8h {
+  width: 18.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame-4-FPX {
+  margin-right: 0.1rem;
+  width: 18.1rem;
+  height: 3.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame-4-FPX .live-now-Pkd {
+  width: 6.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 5.95rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-SHF .auto-group-mbwo-HRb .button-mSR .frame-4-FPX .rectangle-32-J6u {
+  width: 18.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}

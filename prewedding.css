@@ -1,0 +1,693 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 47.6rem;
+}.prewedding-G8R {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.prewedding-G8R .navbar-logo-left-Pyj {
+  margin: 0rem 5.2rem 0rem 5.1rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+  width: calc(100% - 10.3rem);
+  height: 4.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.prewedding-G8R .navbar-logo-left-Pyj .navbar-menu-fAZ {
+  width: 33.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.prewedding-G8R .navbar-logo-left-Pyj .navbar-menu-fAZ .auto-group-wnu9-zyX {
+  box-sizing: border-box;
+  padding: 0.2rem 13.1rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.15rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.prewedding-G8R .navbar-logo-left-Pyj .navbar-menu-fAZ .auto-group-wnu9-zyX .home-vMP {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .navbar-logo-left-Pyj .navbar-menu-fAZ .auto-group-wnu9-zyX .contact-SKj {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .navbar-logo-left-Pyj .navbar-menu-fAZ .auto-group-wnu9-zyX .backup-file-aRw {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .navbar-logo-left-Pyj .navbar-menu-fAZ .instagram-1-uz1 {
+  width: 1.8rem;
+  height: 1.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-hs1b-Dzh {
+  margin-bottom: 1.3rem;
+  width: 142.8rem;
+  height: 31rem;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-hs1b-Dzh .auto-group-tixb-kzd {
+  width: 71.4rem;
+  height: 100%;
+  position: relative;
+}
+.prewedding-G8R .auto-group-hs1b-Dzh .auto-group-tixb-kzd .xt000000-1-hus {
+  width: 47.6rem;
+  height: 28.6rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 136.555% 151.536%;
+  background-position: 0rem -6.1697rem;
+  background-image: url('../assets/xt000000-1-WLH.png');
+}
+.prewedding-G8R .auto-group-hs1b-Dzh .auto-group-tixb-kzd .bg-content-Q3b {
+  width: 71.4rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 18.8rem;
+  background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #000000 61.04%);
+}
+.prewedding-G8R .auto-group-hs1b-Dzh .auto-group-tixb-kzd .deskripsi-open-6h7 {
+  width: 24.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 11.9rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-hs1b-Dzh .auto-group-tixb-kzd .rfotografi-z1o {
+  width: 16.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 6.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-hs1b-Dzh .auto-group-tixb-kzd .button-t7B {
+  width: 5.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 20.6rem;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.prewedding-G8R .portfolio-prewedding-jtV {
+  margin-left: 11.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq {
+  width: 100%;
+  height: 217.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF {
+  width: 31rem;
+  height: 33.1rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 23.1rem;
+  display: flex;
+  align-items: center;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF .auto-group-ix7f-WXs {
+  margin-right: 0.6rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF .auto-group-ix7f-WXs .rfg01051-1-ety {
+  margin-bottom: 0.9rem;
+  width: 14.6rem;
+  height: 9.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF .auto-group-ix7f-WXs .rectangle-5-Pbf {
+  width: 14.5rem;
+  height: 22.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF .auto-group-ptx7-vLh {
+  width: 15.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF .auto-group-ptx7-vLh .auto-group-fcuh-f3P {
+  margin-bottom: 1.7rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem 0rem 0.7rem;
+  width: 100%;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF .auto-group-ptx7-vLh .auto-group-fcuh-f3P .rectangle-2-ms7 {
+  width: 14.3rem;
+  height: 21.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-orar-PTF .auto-group-ptx7-vLh .rfg01051-1-Jc9 {
+  margin-right: 0.1rem;
+  width: 14.3rem;
+  height: 9.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-18lr-csj {
+  width: 30.2rem;
+  height: 20rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 2.2rem;
+  display: flex;
+  align-items: center;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-18lr-csj .rectangle-3-urq {
+  margin-right: 1.2rem;
+  width: 14.5rem;
+  height: 20rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-18lr-csj .rectangle-4-cFT {
+  width: 14.5rem;
+  height: 20rem;
+  position: relative;
+  background-size: 100% 105.764%;
+  background-position: 0 -1.0982rem;
+  background-image: url('../assets/rectangle-4.png');
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .capture-your-inportant-moment-fDj {
+  width: 23.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 10.35rem;
+  top: 61.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .dalam-cincin-pertunangan-terdapat-simbol-kebersamaan-yang-mengikat-dua-jiwa-dalam-komitmen-yang-kuatseperti-lukisan-yang-masih-belum-selesai-pertunangan-adalah-waktu-untuk-merencanakan-setiap-goresan-dan-warna-dalam-kisah-cinta-kita-VCm {
+  width: 30.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.85rem;
+  top: 67.3rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .company-tVo {
+  width: 6rem;
+  height: 1rem;
+  position: absolute;
+  left: 22.1rem;
+  top: 204.8rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-rerv-n5P {
+  width: 16.2rem;
+  height: 1rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 207.7rem;
+  display: flex;
+  align-items: center;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-rerv-n5P .privacy-policy-HXw {
+  margin-right: 2.8rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .auto-group-rerv-n5P .terms-and-conditions-CQ1 {
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .rectangle-14-vqo {
+  width: 34.4261rem;
+  height: 43.6407rem;
+  position: absolute;
+  left: 0;
+  top: 597.7787rem;
+  background-color: #000000;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB {
+  width: 32.8981rem;
+  height: 76.9894rem;
+  position: absolute;
+  left: 7.3426rem;
+  top: 77.4628rem;
+  overflow: hidden;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF {
+  margin: 0rem 0rem 7.97rem 0.291rem;
+  width: calc(100% - 0.2907rem);
+  height: 19.4411rem;
+  display: flex;
+  align-items: flex-end;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .content-44q {
+  margin-right: 1.9122rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 3.428rem 0.011rem;
+  width: 18.9034rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .content-44q .tagline-Ykh {
+  margin: 0rem 0rem 1.456rem 0.08rem;
+  width: calc(100% - 0.0804rem);
+  display: flex;
+  align-items: flex-end;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .content-44q .tagline-Ykh .line-sny {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5194rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .content-44q .tagline-Ykh .rfotografi-ahP {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .content-44q .paket-1-VJZ {
+  margin: 0rem 0rem 2rem 0.058rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .content-44q .caption1-QAd {
+  margin: 0rem 0rem 1.113rem 0.022rem;
+  max-width: 13.6rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .content-44q .idr-500k-HVK {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-AVF .rfg00659-1-DNy {
+  margin-bottom: 0.24rem;
+  width: 11.7918rem;
+  height: 18.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD {
+  margin: 0rem 0.374rem 7.618rem 0.15rem;
+  width: calc(100% - 0.5243rem);
+  height: 19.7936rem;
+  display: flex;
+  align-items: flex-end;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .content-THK {
+  margin-right: 1.6768rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 3.849rem 0.013rem;
+  width: 18.9052rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .content-THK .tagline-knD {
+  margin: 0rem 0rem 1.456rem 0.08rem;
+  width: calc(100% - 0.08rem);
+  display: flex;
+  align-items: flex-end;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .content-THK .tagline-knD .line-gvm {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5194rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .content-THK .tagline-knD .rfotografi-1CM {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .content-THK .paket-2-Kiq {
+  margin: 0rem 0rem 2rem 0.058rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .content-THK .caption1-pQh {
+  margin: 0rem 0rem 1.045rem 0.022rem;
+  max-width: 13.6rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .content-THK .idr-800k-LGZ {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-jcD .rfg00659-1-eY9 {
+  margin-bottom: 0.0756rem;
+  width: 11.7918rem;
+  height: 18.2589rem;
+  position: relative;
+  background-size: 103.704% 100%;
+  background-position: -0.2184rem 0;
+  background-image: url('../assets/rfg00659-1-xwB.png');
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK {
+  margin-right: 0.5122rem;
+  width: calc(100% - 0.5122rem);
+  height: 22.1668rem;
+  display: flex;
+  align-items: center;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .content-rPK {
+  margin-right: 1.6769rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 3.011rem 0.013rem;
+  width: 18.9172rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .content-rPK .tagline-9dK {
+  margin: 0rem 0rem 0.956rem 0.092rem;
+  width: calc(100% - 0.0924rem);
+  display: flex;
+  align-items: flex-end;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .content-rPK .tagline-9dK .line-Gxq {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5194rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .content-rPK .tagline-9dK .rfotografi-QJM {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .content-rPK .paket-3-8EM {
+  margin: 0rem 0rem 1.5rem 0.073rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .content-rPK .caption1-dwo {
+  margin: 0rem 0rem 2.256rem 0.016rem;
+  max-width: 15rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .content-rPK .idr-13jt-Z4m {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .content-FdB .wedding-8TK .rfg00659-1-tsj {
+  margin-bottom: 0.7rem;
+  width: 11.7918rem;
+  height: 15.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .button-Rsf {
+  width: 18.1rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 14.6rem;
+  top: 172.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .button-Rsf .frame-3-xMo {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .button-Rsf .frame-3-xMo .hubungi-kita-hKP {
+  width: 9.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.45rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .button-Rsf .frame-3-xMo .rectangle-32-n5w {
+  width: 18.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .button-Rsf .frame2-tuf {
+  width: 100%;
+  height: 3.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .button-Rsf .frame2-tuf .cek-tanggal-edw {
+  width: 8.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.85rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .button-Rsf .frame2-tuf .rectangle-32-9Ko {
+  width: 18.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.prewedding-G8R .auto-group-wjrf-Frq .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu {
+  width: 32.2rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 159.1rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu-sub-3 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.prewedding-G8R .auto-group-wjrf-Frq .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--rzu-sub-4 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}

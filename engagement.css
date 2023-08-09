@@ -1,0 +1,683 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 47.6rem;
+}.engagement-Kpu {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.engagement-Kpu .navbar-logo-left-UC1 {
+  margin: 0rem 5.2rem 0rem 5.1rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+  width: calc(100% - 10.3rem);
+  height: 4.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.engagement-Kpu .navbar-logo-left-UC1 .navbar-menu-ZUM {
+  width: 32.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.engagement-Kpu .navbar-logo-left-UC1 .navbar-menu-ZUM .auto-group-zml5-Hv9 {
+  box-sizing: border-box;
+  padding: 0.2rem 12.7rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.15rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.engagement-Kpu .navbar-logo-left-UC1 .navbar-menu-ZUM .auto-group-zml5-Hv9 .home-1LM {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .navbar-logo-left-UC1 .navbar-menu-ZUM .auto-group-zml5-Hv9 .contact-8vm {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .navbar-logo-left-UC1 .navbar-menu-ZUM .auto-group-zml5-Hv9 .backup-file-H2y {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .navbar-logo-left-UC1 .navbar-menu-ZUM .instagram-1-pHo {
+  width: 1.8rem;
+  height: 1.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-cugy-8ZP {
+  margin-bottom: 1.3rem;
+  width: 142.8rem;
+  height: 31rem;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-cugy-8ZP .auto-group-ovyy-UNM {
+  width: 71.4rem;
+  height: 100%;
+  position: relative;
+}
+.engagement-Kpu .auto-group-cugy-8ZP .auto-group-ovyy-UNM .xt000000-1-RHb {
+  width: 47.6rem;
+  height: 27.8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 136.555% 155.897%;
+  background-position: 0 -6.1697rem;
+  background-image: url('../assets/xt000000-1.png');
+}
+.engagement-Kpu .auto-group-cugy-8ZP .auto-group-ovyy-UNM .bg-content-L9f {
+  width: 71.4rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 18.8rem;
+  background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #000000 61.04%);
+}
+.engagement-Kpu .auto-group-cugy-8ZP .auto-group-ovyy-UNM .deskripsi-open-3Zs {
+  width: 24.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 11.9rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-cugy-8ZP .auto-group-ovyy-UNM .rfotografi-wQM {
+  width: 16.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 6.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-cugy-8ZP .auto-group-ovyy-UNM .button-qEq {
+  width: 5.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 20.6rem;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.engagement-Kpu .portfolio-engagement-5us {
+  margin-left: 11.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH {
+  width: 100%;
+  height: 217.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-xvbb-KZK {
+  width: 30.8rem;
+  height: 32.3rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 2.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-xvbb-KZK .auto-group-sqst-qnZ {
+  margin-right: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-xvbb-KZK .auto-group-sqst-qnZ .rfg01051-1-ak9 {
+  margin-bottom: 2rem;
+  width: 13.8rem;
+  height: 9.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-xvbb-KZK .auto-group-sqst-qnZ .rectangle-3-6yP {
+  width: 13.9rem;
+  height: 19.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-xvbb-KZK .auto-group-gjuj-qRB {
+  box-sizing: border-box;
+  padding: 0 0.2rem;
+  width: 15.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-xvbb-KZK .auto-group-gjuj-qRB .rectangle-2-y1b {
+  margin: 0rem 0rem 1.3rem 0.2rem;
+  width: 14.3rem;
+  height: 21.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-xvbb-KZK .auto-group-gjuj-qRB .rfg01051-1-GFb {
+  width: 14.4rem;
+  height: 9.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-wopo-nDw {
+  width: 29.4rem;
+  height: 21.7rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 35.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-wopo-nDw .rectangle-5-tnm {
+  margin-right: 1.2rem;
+  width: 13.9rem;
+  height: 21.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-wopo-nDw .rectangle-15-pRX {
+  width: 14.3rem;
+  height: 21.4rem;
+  position: relative;
+  background-size: 99.767% 100%;
+  background-position: 0.0167rem 0;
+  background-image: url('../assets/rectangle-15-m8M.png');
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .capture-your-inportant-moment-vDf {
+  width: 23.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 10.35rem;
+  top: 61.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .pertunangan-adalah-janji-awal-yang-diberikan-dua-hati-untuk-berjalan-bersama-menuju-masa-depan-yang-penuh-harapan-dan-cintaseperti-bunga-yang-mekar-perlahan-pertunangan-adalah-tahap-di-mana-cinta-tumbuh-dan-berkembang-seiring-waktu-1F7 {
+  width: 32.1rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.05rem;
+  top: 66.2rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .company-bDK {
+  width: 6rem;
+  height: 1rem;
+  position: absolute;
+  left: 20.2rem;
+  top: 200.1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-vwz7-VJh {
+  width: 16.7rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 203.2rem;
+  display: flex;
+  align-items: center;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-vwz7-VJh .privacy-policy-pLy {
+  margin: 0rem 3.3rem 0.3rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .auto-group-vwz7-VJh .terms-and-conditions-vuo {
+  margin-top: 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .rectangle-14-FhB {
+  width: 34.4261rem;
+  height: 43.6407rem;
+  position: absolute;
+  left: 0;
+  top: 597.7787rem;
+  background-color: #000000;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb {
+  width: 32.8848rem;
+  height: 80.5408rem;
+  position: absolute;
+  left: 7.407rem;
+  top: 79.3578rem;
+  overflow: hidden;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 {
+  margin: 0rem 0rem 8.21rem 0.279rem;
+  width: calc(100% - 0.2795rem);
+  display: flex;
+  align-items: flex-end;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .content-eUR {
+  margin: 0rem 1.912rem 0.161rem 0rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 4.14rem 0.015rem;
+  width: 18.9014rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .content-eUR .tagline-kXT {
+  margin: 0rem 0rem 1.956rem 0.075rem;
+  width: calc(100% - 0.0748rem);
+  display: flex;
+  align-items: flex-end;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .content-eUR .tagline-kXT .line-t7s {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5194rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .content-eUR .tagline-kXT .rfotografi-PqK {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .content-eUR .paket-1-hLD {
+  margin: 0rem 0rem 2.5rem 0.05rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .content-eUR .caption1-cTB {
+  margin: 0rem 0rem 2rem 0.025rem;
+  max-width: 13.8rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .content-eUR .idr-400k-7uj {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Wd7 .rfg00659-1-rcR {
+  position: absolute;
+  top: 1rem;
+  left: 20rem;
+  width: 11.7918rem;
+  height: 18.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm {
+  margin: 0rem 0.374rem 7.693rem 0.138rem;
+  width: calc(100% - 0.5117rem);
+  height: 19.7179rem;
+  display: flex;
+  align-items: flex-end;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .content-XCm {
+  margin: 0rem 1.677rem 0.048rem 0rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 4.121rem 0.015rem;
+  width: 18.9046rem;
+  height: calc(100% - 0.0483rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .content-XCm .tagline-E7B {
+  margin: 0rem 0rem 1.956rem 0.078rem;
+  width: calc(100% - 0.078rem);
+  display: flex;
+  align-items: flex-end;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .content-XCm .tagline-E7B .line-ZfF {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5194rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .content-XCm .tagline-E7B .rfotografi-5tV {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .content-XCm .paket-2-JFT {
+  margin: 0rem 0rem 2.5rem 0.053rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .content-XCm .caption1-DtD {
+  margin: 0rem 0rem 2.648rem 0.025rem;
+  max-width: 13.6rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .content-XCm .idr-500k-Y9o {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-oGm .rfg00659-1-VjF {
+  width: 11.7918rem;
+  height: 18.2589rem;
+  position: relative;
+  background-size: 103.704% 100%;
+  background-position: -0.2184rem 0;
+  background-image: url('../assets/rfg00659-1-iZw.png');
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd {
+  margin-right: 0.5122rem;
+  width: calc(100% - 0.5122rem);
+  display: flex;
+  align-items: flex-end;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .content-8nD {
+  margin: 0rem 1.677rem 0.176rem 0rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 6.579rem 0.027rem;
+  width: 18.9039rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .content-8nD .tagline-E4Z {
+  margin: 0rem 0rem 1.438rem 0.065rem;
+  width: calc(100% - 0.065rem);
+  display: flex;
+  align-items: flex-end;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .content-8nD .tagline-E4Z .line-Mus {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5194rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .content-8nD .tagline-E4Z .rfotografi-gBT {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .content-8nD .paket-3-b3X {
+  margin: 0rem 0rem 1.393rem 0.041rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .content-8nD .caption1-JCq {
+  margin: 0rem 0rem 1.687rem 0.017rem;
+  max-width: 15rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .content-8nD .idr-700k-DKo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .content-PHb .wedding-Ppd .rfg00659-1-AF3 {
+  position: absolute;
+  top: 58.2rem;
+  left: 20.1rem;
+  width: 12.7918rem;
+  height: 19.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .button-7AH {
+  width: 18.1rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 171.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.engagement-Kpu .auto-group-gm3w-npH .button-7AH .frame-3-deR {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .button-7AH .frame-3-deR .hubungi-kita-P7o {
+  width: 9.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.45rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .button-7AH .frame-3-deR .rectangle-32-gsb {
+  width: 18.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.engagement-Kpu .auto-group-gm3w-npH .button-7AH .frame2-E8R {
+  width: 100%;
+  height: 3.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.engagement-Kpu .auto-group-gm3w-npH .button-7AH .frame2-E8R .cek-tanggal-aTB {
+  width: 8.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.85rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.engagement-Kpu .auto-group-gm3w-npH .button-7AH .frame2-E8R .rectangle-32-HMb {
+  width: 18.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.engagement-Kpu .auto-group-gm3w-npH .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK {
+  width: 31.9rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 7.75rem;
+  top: 160.3rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK-sub-3 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.engagement-Kpu .auto-group-gm3w-npH .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--QBK-sub-4 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}

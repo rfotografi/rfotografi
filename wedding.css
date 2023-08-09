@@ -1,0 +1,747 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 47.6rem;
+}.wedding-tjB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.wedding-tjB .navbar-logo-left-QBj {
+  margin: 0rem 5.2rem 0rem 5.1rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+  width: calc(100% - 10.3rem);
+  height: 4.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.wedding-tjB .navbar-logo-left-QBj .navbar-menu-sr1 {
+  width: 33.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.wedding-tjB .navbar-logo-left-QBj .navbar-menu-sr1 .auto-group-otmx-d4V {
+  box-sizing: border-box;
+  padding: 0.2rem 13.1rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.15rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wedding-tjB .navbar-logo-left-QBj .navbar-menu-sr1 .auto-group-otmx-d4V .home-YSM {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .navbar-logo-left-QBj .navbar-menu-sr1 .auto-group-otmx-d4V .contact-fWy {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .navbar-logo-left-QBj .navbar-menu-sr1 .auto-group-otmx-d4V .backup-file-oNH {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .navbar-logo-left-QBj .navbar-menu-sr1 .instagram-1-jFw {
+  width: 1.8rem;
+  height: 1.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-vcob-ReZ {
+  margin-bottom: 1.7rem;
+  width: 142.8rem;
+  height: 31rem;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-vcob-ReZ .auto-group-zfwy-9qT {
+  width: 71.4rem;
+  height: 100%;
+  position: relative;
+}
+.wedding-tjB .auto-group-vcob-ReZ .auto-group-zfwy-9qT .xt000000-1-tY9 {
+  width: 47.6rem;
+  height: 28.9rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 136.555% 149.963%;
+  background-position: -0rem -6.1697rem;
+  background-image: url('../assets/xt000000-1-35K.png');
+}
+.wedding-tjB .auto-group-vcob-ReZ .auto-group-zfwy-9qT .bg-content-NCR {
+  width: 71.4rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 18.8rem;
+  background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #000000 61.04%);
+}
+.wedding-tjB .auto-group-vcob-ReZ .auto-group-zfwy-9qT .deskripsi-open-fSR {
+  width: 24.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 11.9rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-vcob-ReZ .auto-group-zfwy-9qT .rfotografi-kCy {
+  width: 16.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 6.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-vcob-ReZ .auto-group-zfwy-9qT .button-hubungi-r17 {
+  width: 5.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 20.6rem;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.wedding-tjB .portfolio-wedding-HcD {
+  margin-left: 14.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF {
+  box-sizing: border-box;
+  padding-top: 2.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .rectangle-2-7r9 {
+  margin: 0rem 0rem 1.7rem 0.1rem;
+  width: 31.5rem;
+  height: 18.6rem;
+  position: relative;
+  background-size: 100% 115.472%;
+  background-position: 0rem -1.0755rem;
+  background-image: url('../assets/rectangle-2-2h7.png');
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-bsof-zuw {
+  margin: 0rem 8rem 1rem 8.2rem;
+  width: calc(100% - 16.2rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-bsof-zuw .rectangle-3-KxD {
+  margin-right: 1.2rem;
+  width: 14.4rem;
+  height: 20.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-bsof-zuw .auto-group-dmdj-rBT {
+  width: 15.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-bsof-zuw .auto-group-dmdj-rBT .auto-group-9iyy-zHf {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-bsof-zuw .auto-group-dmdj-rBT .auto-group-9iyy-zHf .rfg01051-1-9AZ {
+  width: 15.7rem;
+  height: 9.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rfg01051-1-bg-B6H.png');
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-bsof-zuw .auto-group-dmdj-rBT .rfg01051-1-4YR {
+  width: 15.7rem;
+  height: 9.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rfg01051-1-bg.png');
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-eo4d-oF7 {
+  margin: 0rem 8.1rem 3.7rem 8.1rem;
+  width: calc(100% - 16.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-eo4d-oF7 .rectangle-5-j8m {
+  margin-right: 1.3rem;
+  width: 14.5rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-eo4d-oF7 .rectangle-4-TaZ {
+  width: 15.6rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .capture-your-inportant-moment-oPX {
+  margin: 0rem 2.4rem 0.9rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .pernikahan-adalah-tempat-di-mana-kita-belajar-bahwa-cinta-sejati-tidak-hanya-melihat-apa-yang-terlihat-tetapi-juga-melihat-potensi-yang-ada-di-baliknya-uBf {
+  margin: 0rem 0rem 4.756rem 0.2rem;
+  max-width: 30.2rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF {
+  margin: 0rem 7.28rem 3.176rem 7.134rem;
+  width: calc(100% - 14.4138rem);
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy {
+  margin: 0rem 0rem 7.543rem 0.812rem;
+  width: calc(100% - 0.812rem);
+  height: 19.8678rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .content-yKw {
+  margin-right: 1.6768rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 1.668rem 0.002rem;
+  width: 18.9056rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .content-yKw .tagline-sgD {
+  margin: 0rem 0rem 1.956rem 0.091rem;
+  width: calc(100% - 0.0914rem);
+  display: flex;
+  align-items: flex-end;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .content-yKw .tagline-sgD .line-Qw3 {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5195rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .content-yKw .tagline-sgD .rfotografi-wg5 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .content-yKw .paket-1-rol-Fwf {
+  margin: 0rem 0rem 2.5rem 0.067rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .content-yKw .caption1-mv1 {
+  margin: 0rem 0rem 2.3rem 0.025rem;
+  max-width: 14.7rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .content-yKw .idr-500k-5vh {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-4Cy .rfg00659-1-ptH {
+  margin-bottom: 0.1499rem;
+  width: 11.7918rem;
+  height: 18.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD {
+  margin: 0rem 0.138rem 7.693rem 0.675rem;
+  width: calc(100% - 0.8132rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .content-tt9 {
+  margin: 0rem 1.677rem 0.082rem 0rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 1.436rem 0.001rem;
+  width: 18.9044rem;
+  height: 19.6356rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .content-tt9 .tagline-QLh {
+  margin: 0rem 0rem 1.956rem 0.091rem;
+  width: calc(100% - 0.0914rem);
+  display: flex;
+  align-items: flex-end;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .content-tt9 .tagline-QLh .line-8nV {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5195rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .content-tt9 .tagline-QLh .rfotografi-3eZ {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .content-tt9 .paket-2-rol-mKf {
+  margin: 0rem 0rem 2.5rem 0.067rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .content-tt9 .caption1-HYu {
+  margin: 0rem 0rem 2.3rem 0.025rem;
+  max-width: 14.7rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .content-tt9 .idr-800k-Q7j {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-MtD .rfg00659-1-wNZ {
+  width: 11.7918rem;
+  height: 18.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV {
+  margin: 0rem 0.277rem 5.077rem 0.526rem;
+  width: calc(100% - 0.8033rem);
+  height: 21.5652rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .content-nPB {
+  margin-right: 1.6769rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 6.093rem 0.022rem;
+  width: 18.9141rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .content-nPB .tagline-qsF {
+  margin: 0rem 0rem 0.456rem 0.081rem;
+  width: calc(100% - 0.0809rem);
+  display: flex;
+  align-items: flex-end;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .content-nPB .tagline-qsF .line-LZ7 {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5195rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .content-nPB .tagline-qsF .rfotografi-RqT {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .content-nPB .paket-3-rol-woo {
+  margin: 0rem 0rem 1.531rem 0.061rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .content-nPB .caption1-4dX {
+  margin: 0rem 0rem 0.541rem 0.02rem;
+  max-width: 14.7rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .content-nPB .idr-12jt-yVb {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .roll-UNV .rfg00659-1-K3f {
+  margin-bottom: 0.3876rem;
+  width: 11.7918rem;
+  height: 18.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD {
+  margin-right: 0.4155rem;
+  width: calc(100% - 0.4155rem);
+  height: 25.4038rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .content-BLm {
+  margin-right: 2.0454rem;
+  box-sizing: border-box;
+  padding: 0.044rem 0rem 5.991rem 0.024rem;
+  width: 18.9335rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .content-BLm .tagline-ha1 {
+  margin: 0rem 0rem 0.456rem 0.098rem;
+  width: calc(100% - 0.0976rem);
+  display: flex;
+  align-items: flex-end;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .content-BLm .tagline-ha1 .line-eEM {
+  margin: 0rem 2.172rem 0.011rem 0rem;
+  width: 6.5195rem;
+  height: 0.2329rem;
+  background-color: #fbd784;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .content-BLm .tagline-ha1 .rfotografi-AyP {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-family: Alumni Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .content-BLm .paket-magazine-6c9 {
+  margin: 0rem 0rem 1.635rem 0.077rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .content-BLm .caption1-RPX {
+  margin: 0rem 0rem 2.678rem 0.017rem;
+  max-width: 16.5rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.775;
+  color: #ffffff;
+  font-family: Be Vietnam, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .content-BLm .idr-16jt-9KX {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 0.000;
+  color: #d4b157;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .content-wPF .magazine-FCD .rfg00659-1-sWR {
+  margin-bottom: 2.6883rem;
+  width: 11.7918rem;
+  height: 18.2589rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V {
+  margin: 0rem 0rem 1.7rem 1.1rem;
+  max-width: 35rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V-sub-3 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V .untuk-info-lebih-jelas-tentang-masalah-pembayaran-atau-negosiasi-harga-mengecek-atau-memboking-tanggal-apa-saja-yang-harus-di-persiapkan-atau-apasaja-yang-ingin-anda-tanyakan-bisa-dengan-klik-hubungi-kita-untuk-lanjut-menanyakan-via-whatsapp-dan-klik-cek-tanggal-umtuk-mengecek-apakah-tanggal-tersebut-isi-atau-tidak--D4V-sub-4 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.wedding-tjB .auto-group-zwa9-PfF .button-9Gu {
+  margin: 0rem 14.5rem 2.7rem 15rem;
+  width: calc(100% - 29.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .button-9Gu .hubungi-kita-sTo {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .button-9Gu .hubungi-kita-sTo .hubungi-kita-RER {
+  width: 9.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.45rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .button-9Gu .hubungi-kita-sTo .rectangle-32-Kqb {
+  width: 18.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.wedding-tjB .auto-group-zwa9-PfF .button-9Gu .kalender-TB7 {
+  width: 100%;
+  height: 3.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .button-9Gu .kalender-TB7 .cek-tanggal-p1f {
+  width: 8.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.85rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wedding-tjB .auto-group-zwa9-PfF .button-9Gu .kalender-TB7 .rectangle-32-7Ff {
+  width: 18.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #d4b157;
+  box-sizing: border-box;
+}
+.wedding-tjB .auto-group-zwa9-PfF .company-F6y {
+  margin-bottom: 1.1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-munz-mLD {
+  margin: 0rem 15.5rem 381.779rem 16.3rem;
+  width: calc(100% - 31.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-munz-mLD .privacy-policy-V1K {
+  margin-right: 2.4rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .auto-group-munz-mLD .terms-and-conditions-yx5 {
+  font-size: 0.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wedding-tjB .auto-group-zwa9-PfF .rectangle-14-uaq {
+  margin-right: 89.3046rem;
+  width: 34.4261rem;
+  height: 43.6407rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
